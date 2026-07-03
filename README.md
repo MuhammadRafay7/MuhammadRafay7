@@ -76,8 +76,8 @@ I design and ship end-to-end web apps — from pixel-perfect front-ends to secur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadRafay7&show_icons=true&hide_border=true&title_color=6c5ce7&icon_color=6c5ce7&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRafay7&layout=compact&hide_border=true&title_color=6c5ce7&langs_count=8"/>
+  <img src="https://img.shields.io/github/followers/MuhammadRafay7?style=for-the-badge&label=Followers&color=6c5ce7&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/MuhammadRafay7?style=for-the-badge&label=Total%20Stars&color=6c5ce7&logo=github&logoColor=white"/>
 </p>
 
 ---
