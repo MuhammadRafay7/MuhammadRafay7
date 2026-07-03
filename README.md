@@ -1,90 +1,108 @@
-<h1 align="center">Starvix</h1>
+<!-- ============ HERO BANNER (animated, no extra files needed) ============ -->
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; Building scalable web & mobile products<br/>
-  React · Next.js · Node · Flutter — clean, secure, high-performance.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:a855f7,100:ec4899&height=210&section=header&text=STARVIX&fontSize=76&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Motion%20UI%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=58" width="100%" alt="Starvix" />
 
-<p align="center">
-  <a href="https://starvix.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-starvix.vercel.app-6c5ce7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/MuhammadRafay7?tab=followers"><img src="https://img.shields.io/github/followers/MuhammadRafay7?style=for-the-badge&label=Follow&color=2d3436&logo=github" alt="Followers"/></a>
-</p>
+<a href="https://starvix.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=I+design+it.+I+build+it.+I+ship+it.;From+Figma+to+production+%E2%80%94+the+whole+stack.;I+trained+my+own+on-device+LLM." alt="Typing SVG" />
+</a>
 
----
+<br><br>
 
-### 👋 About
+<img src="https://komarev.com/ghpvc/?username=MuhammadRafay7&label=PROFILE+VIEWS&color=6C5CE7&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2937" alt="Status" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/MuhammadRafay7?label=FOLLOWERS&style=for-the-badge&color=a855f7&logo=github&logoColor=white&labelColor=1F2937" alt="Followers" />
 
-I design and ship end-to-end web apps — from pixel-perfect front-ends to secure, role-based back-ends and REST APIs. My focus is SaaS platforms, admin dashboards, e-commerce, and marketplaces that are fast, maintainable, and actually convert. I also build cross-platform mobile with Flutter.
+</div>
 
-- 🧩 I turn Figma designs into production interfaces, and rough ideas into deployed products.
-- ⚙️ Comfortable across the stack: TypeScript, React/Next.js, Node, PostgreSQL, Firebase, Flutter.
-- 🎯 Currently building at **[Starvix](https://starvix.vercel.app/)** — a digital experience studio.
+## `whoami`
 
----
+```
+Starvix — full-stack developer & designer, one-person studio.
 
-### 🛠️ Tech Stack
+I take products from Figma to production: high-fidelity motion UIs,
+full-stack SaaS, and — lately — AI I train myself. My range runs from
+GSAP-heavy brand sites, to marketplaces with payments and escrow, to a
+from-scratch on-device LLM shipped inside a Flutter app.
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-</p>
+Not a specialist in one layer. I own the whole thing: design -> code -> deploy.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,50:a855f7,100:ec4899&height=3&section=header&animation=twinkling" width="100%" alt="" />
+
+## 🧠 Spotlight — Nur-AI
+
+> Most people integrate an AI API. I built the model.
+
+A Quran & Hadith assistant that answers **only** from authentic sources, cites exact
+references (Surah:Ayah, Hadith grade), and runs **100% offline** on your phone.
+
+```text
+Model      ->  Llama 3.2 3B, fine-tuned from scratch (QLoRA 4-bit, Unsloth)
+Data       ->  15,000+ Q&A pairs from the Quran + 6 Hadith collections
+Export     ->  GGUF Q4_K_M (~1.7 GB) running on-device via llama.cpp
+Delivery   ->  drop-in Flutter integration - no internet after setup
+Infra cost ->  $0 (free Colab GPU)
+```
+
+<div align="right"><a href="https://github.com/MuhammadRafay7/nur-ai"><b>-> View the project</b></a></div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a855f7,100:6C5CE7&height=3&section=header&animation=twinkling" width="100%" alt="" />
+
+## 🚀 Shipped Work
+
+Real products, live in production — grouped by what they actually are.
+
+| Domain | Project | It does | Live |
+|---|---|---|---|
+| 🛒 **Marketplace** | **Occuin** | Livestock marketplace — photography-first, trust-driven | [↗](https://occuin.com) |
+| 🏠 **Rentals / Fintech** | **GlobalHaven** | Vacation rentals with payment **escrow** & host verification | [↗](https://globalhaven-beryl.vercel.app/) |
+| 💳 **E-Commerce** | **GlobeKart** | Storefront tuned for checkout conversion | [↗](https://globekart.vercel.app/) |
+| 🧩 **SaaS** | **Team Freelancer** | Team & freelancer collaboration platform | [↗](https://team-freelancer.vercel.app/) |
+| 🎬 **Motion / Brand** | **K72** | GSAP-heavy agency site, heavy interaction design | [↗](https://k72-seven-nu.vercel.app/) |
+| 🎨 **Studio** | **Starvix** | My design studio — portfolio & case studies | [↗](https://starvix.vercel.app/) |
+| 🛠️ **Dev Tooling** | **ai-audit** | A Claude Code skill that reviews uncommitted work against best practices | [↗](https://github.com/MuhammadRafay7/ai-audit) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,50:a855f7,100:ec4899&height=3&section=header&animation=twinkling" width="100%" alt="" />
+
+<div align="center">
+
+## ⚙️ Toolbox
 
 **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind&theme=dark" alt="frontend" />
 
-**Backend & Data**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-</p>
+**Backend &amp; Data**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase,php,python&theme=dark" alt="backend" />
 
-**Mobile & Tooling**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-</p>
+**Mobile · AI · Ship**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,pytorch,git,figma,vercel&theme=dark" alt="mobile-ai" />
 
----
+</div>
 
-### 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a855f7,100:6C5CE7&height=3&section=header&animation=twinkling" width="100%" alt="" />
 
-| Project | What it is | Live |
-|---|---|---|
-| **Starvix** | Digital experience studio — portfolio & case studies | [↗ Demo](https://starvix.vercel.app/) |
-| **Occuin** | Animal & livestock marketplace with rich photography |  [↗ Demo](https://www.occuin.com/) |
-| **Globekart** | E-commerce storefront focused on checkout conversion | [↗ Demo](https://globekart.vercel.app/) |
-| **GlobalHaven** | Vacation-rental platform with payment escrow & host verification | [↗ Demo](https://globalhaven-beryl.vercel.app/) |
-| **Team Freelancer** | SaaS platform for team & freelancer collaboration | [↗ Demo](https://team-freelancer.vercel.app/) |
-| **K72** | Bold, motion-heavy agency site (GSAP animations) | [↗ Demo](https://k72-seven-nu.vercel.app/) |
----
+## 📈 What I'm doing lately
 
-### 📊 GitHub Stats
+- 🧠 Pushing **on-device / local AI** further — smaller models, real products, no API bills.
+- 🎨 Building **Starvix** into a studio brand for high-fidelity, motion-led web work.
+- ⚙️ Writing my own dev tooling (Claude Code skills) to ship faster and cleaner.
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MuhammadRafay7?style=for-the-badge&label=Followers&color=6c5ce7&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/github/stars/MuhammadRafay7?style=for-the-badge&label=Total%20Stars&color=6c5ce7&logo=github&logoColor=white"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRafay7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C5CE7&line=a855f7&point=ec4899&area=true&area_color=6C5CE720" width="100%" alt="Activity Graph" />
 
-<p align="center">
-  <a href="https://starvix.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/MuhammadRafay7">💻 GitHub</a>
-</p>
+<br><br>
 
-<p align="center"><i>Always learning, always shipping.</i></p>
+<a href="https://starvix.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-starvix.vercel.app-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2937" /></a>
+&nbsp;
+<a href="https://github.com/MuhammadRafay7"><img src="https://img.shields.io/badge/💻_GitHub-MuhammadRafay7-2d3436?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:a855f7,100:ec4899&height=120&section=footer&animation=twinkling&text=design%20-%3E%20code%20-%3E%20deploy&fontColor=ffffff&fontSize=22&fontAlignY=76" width="100%" alt="" />
+
+</div>
