@@ -17,7 +17,7 @@
 
 </div>
 
-## `whoami`
+## `who am i`
 
 ```
 Starvix — full-stack developer & designer, one-person studio.
