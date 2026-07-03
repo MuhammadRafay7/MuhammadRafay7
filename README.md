@@ -66,12 +66,11 @@ I design and ship end-to-end web apps — from pixel-perfect front-ends to secur
 | Project | What it is | Live |
 |---|---|---|
 | **Starvix** | Digital experience studio — portfolio & case studies | [↗ Demo](https://starvix.vercel.app/) |
+| **Occuin** | Animal & livestock marketplace with rich photography |  [↗ Demo](https://www.occuin.com/) |
 | **Globekart** | E-commerce storefront focused on checkout conversion | [↗ Demo](https://globekart.vercel.app/) |
 | **GlobalHaven** | Vacation-rental platform with payment escrow & host verification | [↗ Demo](https://globalhaven-beryl.vercel.app/) |
 | **Team Freelancer** | SaaS platform for team & freelancer collaboration | [↗ Demo](https://team-freelancer.vercel.app/) |
 | **K72** | Bold, motion-heavy agency site (GSAP animations) | [↗ Demo](https://k72-seven-nu.vercel.app/) |
-| **Minaret** | Cross-platform Flutter app, fintech-grade UI | [Repo](https://github.com/MuhammadRafay7/minaret) |
-
 ---
 
 ### 📊 GitHub Stats
