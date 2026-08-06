@@ -1,7 +1,7 @@
 <!-- ============ HERO BANNER (animated, no extra files needed) ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:a855f7,100:ec4899&height=210&section=header&text=STARVIX&fontSize=76&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Motion%20UI%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=58" width="100%" alt="Starvix" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:a855f7,100:ec4899&height=210&section=header&text=OstenMark&fontSize=76&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Motion%20UI%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=58" width="100%" alt="Starvix" />
 
 <a href="https://starvix.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=I+design+it.+I+build+it.+I+ship+it.;From+Figma+to+production+%E2%80%94+the+whole+stack.;I+trained+my+own+on-device+LLM." alt="Typing SVG" />
