@@ -20,7 +20,7 @@
 ## `who am i`
 
 ```
-Starvix — full-stack developer & designer, one-person studio.
+OstenMark — full-stack developer & designer, one-person studio.
 
 I take products from Figma to production: high-fidelity motion UIs,
 full-stack SaaS, and — lately — AI I train myself. My range runs from
@@ -62,7 +62,7 @@ Real products, live in production — grouped by what they actually are.
 | 💳 **E-Commerce** | **GlobeKart** | Storefront tuned for checkout conversion | [↗](https://globekart.vercel.app/) |
 | 🧩 **SaaS** | **Team Freelancer** | Team & freelancer collaboration platform | [↗](https://team-freelancer.vercel.app/) |
 | 🎬 **Motion / Brand** | **K72** | GSAP-heavy agency site, heavy interaction design | [↗](https://k72-seven-nu.vercel.app/) |
-| 🎨 **Studio** | **Starvix** | My design studio — portfolio & case studies | [↗](https://starvix.vercel.app/) |
+| 🎨 **Studio** | **OstenMark** | My design studio — portfolio & case studies | [↗](https://ostenmark.com/) |
 | 🛠️ **Dev Tooling** | **ai-audit** | A Claude Code skill that reviews uncommitted work against best practices | [↗](https://github.com/MuhammadRafay7/ai-audit) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,50:a855f7,100:ec4899&height=3&section=header&animation=twinkling" width="100%" alt="" />
@@ -90,7 +90,7 @@ Real products, live in production — grouped by what they actually are.
 ## 📈 What I'm doing lately
 
 - 🧠 Pushing **on-device / local AI** further — smaller models, real products, no API bills.
-- 🎨 Building **Starvix** into a studio brand for high-fidelity, motion-led web work.
+- 🎨 Building **OstenMark** into a studio brand for high-fidelity, motion-led web work.
 - ⚙️ Writing my own dev tooling (Claude Code skills) to ship faster and cleaner.
 
 <div align="center">
@@ -99,7 +99,7 @@ Real products, live in production — grouped by what they actually are.
 
 <br><br>
 
-<a href="https://starvix.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-starvix.vercel.app-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2937" /></a>
+<a href="https://ostenmark.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-ostenmark.com-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2937" /></a>
 &nbsp;
 <a href="https://github.com/MuhammadRafay7"><img src="https://img.shields.io/badge/💻_GitHub-MuhammadRafay7-2d3436?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" /></a>
 
